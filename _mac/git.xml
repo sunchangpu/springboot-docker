@@ -1,5 +1,5 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="https://github.com/sunchangpu/springboot-docker.git" />
+    <option name="myPathToGit" value="/usr/bin/git" />
   </component>
 </application>
